@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#033be8</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#0277bd</color>
+
+    <!-- Background color for app -->
+        <color name="colorAccent">#03a9f4</color>
+
+    <!-- Background color for the Sightseeing category -->
+    <color name="color_category_sight">#03a9f4</color>
+
+    <!-- Background color for the Beaches category -->
+    <color name="color_category_beaches">#05a9f4</color>
+
+    <!-- Background color for the Restaurants category -->
+    <color name="color_category_restaurant">#08a9f4</color>
+
+    <!-- Background color for the Hotels category -->
+    <color name="color_category_hotels">#0Aa9f4</color>
+
+
+    <!--Colors for TabLayout-->
+    <color name="background_color_tablayout">#033be8</color>
+
+    <color name="textColor_list_item">#000000</color>
+
+    <color name="colorPrimaryDark_MyTheme">#033be8</color>
+
+    <color name="tabIndicatorColor">#0277bd</color>
+
+    <color name="tabSelectedTextColor">#fff7da</color>
+
+    <color name="tabLayoutTextStyle_Color">#A1a19E</color>
+
+</resources>

@@ -1,0 +1,54 @@
+<resources>
+    <!--Application Name-->
+    <string name="app_name">TourGuide Salamina, Greece</string>
+
+    <!--Message for user at splash screen-->
+    <string name="start">Touch screen to begin the tour to Salamina</string>
+
+    <!--Category names-->
+    <string name="category_sighseeing">Sightseeings</string>
+    <string name="category_beaches">Beaches</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_hotels">Hotels</string>
+
+    <!--Sightseeing Names -->
+    <string name="ancient_salamina">Ancient Salamina</string>
+    <string name="salamina_battleship">Salaminas famous battleship place</string>
+    <string name="euripides_cave">Euripides Cave</string>
+    <string name="ag_nikolas_monastery">St Nikolas Monastery</string>
+    <string name="museum">Folklore museum of Salamina</string>
+
+    <!--Sightseeing Descriptions -->
+    <string name="ancient_salamina_descr">Ancient town of Salamina was on southern place of salamina.You can see the remains of that city.</string>
+    <string name="salamina_battleship_descr">In Salamina\'s famous battleship place you can see the harboor where battleship took place.</string>
+    <string name="euripides_cave_descr">Euripide\'s cave is at Peristeria and was found by archaiologist Gianni Lolo(1994 to 1997).It is the place where Euripides wrote </string>
+    <string name="ag_nikolas_monastery_descr">St Nikolas Monastery is near kanakia beach and is in the forest</string>
+    <string name="museum_descr">At the Folklore museum of Salamina you can see how people in Salamina where dressed, tools they used etc in the last century.</string>
+
+    <!-- Beaches Names -->
+    <string name="perani_beach">Perani Beach </string>
+    <string name="kolones_beach">Kolones Beach</string>
+    <string name="kanakia_beach">Kanakia Beach</string>
+
+    <!--Beaches Descriptions -->
+    <string name="perani_beach_descr">Perani Beach Bar is an organized beach where you can swim and drink yoyr coffee.</string>
+    <string name="kolones_beach_descr">Kolones is a very beautiful clean rocky beach</string>
+    <string name="kanakia_beach_descr">Kanakia is a very nice beach near ancient Salamina at the south.</string>
+
+    <!-- Restaurant Names -->
+    <string name="koxyli_rest">Koxyli Reastaurant</string>
+    <string name="kakias_rest">Kakias restaurant</string>
+
+    <!--Restaurant Descriptions -->
+    <string name="koxyli_rest_descr">Koxyli Reastaurant is a very nice restaurant at Kamatero village. You can eat meat or seafood.Phone now to book 2104673306</string>
+    <string name="kakias_rest_descr">Kakias restaurant is  a very nice restaurant to eat fresh seafood.Phone now to book 2104655821</string>
+
+    <!-- Hotel Names -->
+    <string name="votsalakia_hotel">Votsallakia Hotel.</string>
+    <string name="melina_hotel">Melina Hotel.</string>
+
+    <!--Hotel Descriptions -->
+    <string name="votsalakia_hotel_descr">Votsallakia is a very nice Hotel at Selinia city.Phone now to book 2104671432</string>
+    <string name="melina_hotel_descr">Melina hotel is a new hotel near the beach at  Aianteio.Phone now to book 2104657469</string>
+
+</resources>
